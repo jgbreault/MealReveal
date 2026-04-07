@@ -1,0 +1,3 @@
+Model,Avg_Variant_Accuracy,Avg_Variant_Robustness
+effnet_baseline,0.36597227722772274,0.6888922021768302
+resnet_baseline,0.39067722772277225,0.702556797948864
